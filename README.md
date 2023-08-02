@@ -5,3 +5,7 @@ The project focuses on addressing the urgent issue of deforestation in the Argan
 The major dangers to the Argania tree include over-harvesting for its valuable nuts, habitat destruction due to human activities, the impact of climate change on its adaptation, and overgrazing by goats. To protect the Argania tree and its habitat, the project aims to implement sustainable harvesting practices, restore natural habitats, and manage the grazing of goats.
 
 The goal of this project is to develop a model that can accurately detect deforestation in the Argania region, aiding conservation efforts and preserving the unique ecosystem of the area.
+
+Summary
+--------------------------
+F1-score    : 0.95
